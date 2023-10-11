@@ -1,0 +1,4 @@
+
+alby:
+  token: ${TOKEN}
+  hookSecret: ${HOOK}
