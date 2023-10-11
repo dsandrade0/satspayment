@@ -1,1 +1,1 @@
-# Api de pagamentos pela lightining usando [https://getalby.com/](Alby)
+## Api de pagamentos usando bitcoin pela lightining network usando [https://getalby.com/](Alby)
